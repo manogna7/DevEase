@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Coverage reports
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Frontend
+client/build/
+client/public/*.html
+
+# Backend
+server/config/db.js
+server/config/env.js
+server/dist/
+
+# Docker
+docker/*.log
+
+# Tests
+tests/coverage/
+
+# IDE/Editor
+.vscode/
+*.sublime-*
+.DS_Store
+Thumbs.db
