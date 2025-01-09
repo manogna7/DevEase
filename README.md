@@ -59,11 +59,6 @@ Visit the application at [http://localhost:3000](http://localhost:3000) in your 
 
 ---
 
-### **Screenshots**
-(Add screenshots or GIFs showing the application interface and functionality)
-
----
-
 ## **Contributing**
 
 We welcome contributions to DevEase! To contribute:
