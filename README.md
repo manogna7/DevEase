@@ -184,12 +184,6 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
-## **Contact**
-
-For any questions or feedback, please reach out to us at [manogna@example.com](mailto:manogna@example.com).
-
----
-
 ## **Roadmap**
 
 ### **Phase 1: Core Features**
@@ -207,11 +201,6 @@ For any questions or feedback, please reach out to us at [manogna@example.com](m
 - Plugin ecosystem for additional functionality
 - Mobile app builder integration
 
----
-
-## **Support**
-
-If you encounter any issues or have suggestions for improvements, please open an issue on our [GitHub repository](https://github.com/manogna7/devEase).
 
 ---
 
