@@ -1,12 +1,12 @@
 # **DevEase**
 
-**Your AI-Powered Website Builder. Generate Code, Templates, and Full Websites in Minutes—No Coding Required.**
+**AI-Powered Website Builder. Generate Code, Templates, and Full Websites in Minutes No Coding Required.**
 
 ---
 
 ## **Overview**
 
-DevEase is a revolutionary platform that empowers users to create websites effortlessly. Whether you're a beginner, a business owner, or a developer, DevEase simplifies web development by combining **AI-powered code generation**, **pre-built templates**, and **drag-and-drop customization** into one seamless experience. With DevEase, you can describe your website idea, customize it visually, and export or deploy it—all without writing a single line of code.
+DevEase is a revolutionary platform that empowers users to create websites effortlessly. Whether you're a beginner, a business owner, or a developer, DevEase simplifies web development by combining **AI-powered code generation**, **pre-built templates**, and **drag-and-drop customization** into one seamless experience. With DevEase, you can describe your website idea, customize it visually, and export or deploy it all without writing a single line of code.
 
 ---
 
@@ -62,7 +62,7 @@ DevEase is a revolutionary platform that empowers users to create websites effor
 - Unlike other tools, DevEase allows teams to collaborate in real-time on website projects, making it perfect for agencies and remote teams.
 
 ### **5. AI That Understands Context**
-- DevEase’s AI doesn’t just generate generic code—it understands user intent and context. For example:
+- DevEase’s AI doesn’t just generate generic code it understands user intent and context. For example:
   - Input: "A responsive navbar with a logo on the left and links on the right."
   - Output: A fully functional, mobile-friendly navbar component.
 
@@ -70,7 +70,7 @@ DevEase is a revolutionary platform that empowers users to create websites effor
 - While other tools limit users to pre-defined templates, DevEase allows users to describe **anything** and generate it. From simple landing pages to complex dashboards, the possibilities are endless.
 
 ### **7. Export and Ownership**
-- Unlike closed platforms, DevEase lets users export their code and own it completely. No vendor lock-in—take your code and deploy it anywhere.
+- Unlike closed platforms, DevEase lets users export their code and own it completely. No vendor lock-in take your code and deploy it anywhere.
 
 ---
 
@@ -204,4 +204,4 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
-**DevEase** is more than just a tool—it's a **paradigm shift** in how websites are created. By combining AI, visual editing, and framework flexibility, DevEase empowers users to bring their ideas to life faster and easier than ever before. 🚀
+**DevEase** is more than just a tool it's a **paradigm shift** in how websites are created. By combining AI, visual editing, and framework flexibility, DevEase empowers users to bring their ideas to life faster and easier than ever before. 🚀
