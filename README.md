@@ -1,18 +1,15 @@
 # **DevEase**
-
-**AI-Powered Website Builder. Generate Code, Templates, and Full Websites in Minutes No Coding Required.**
-
 ---
 
 ## **Overview**
 
-DevEase is a revolutionary platform that empowers users to create websites effortlessly. Whether you're a beginner, a business owner, or a developer, DevEase simplifies web development by combining **AI-powered code generation**, **pre-built templates**, and **drag-and-drop customization** into one seamless experience. With DevEase, you can describe your website idea, customize it visually, and export or deploy it all without writing a single line of code.
+DevEase is a revolutionary platform that empowers users to create websites effortlessly. Whether you're a beginner, a business owner, or a developer, DevEase simplifies web development by combining **Automated code generation**, **pre-built templates**, and **drag-and-drop customization** into one seamless experience. With DevEase, you can describe your website idea, customize it visually, and export or deploy it all without writing a single line of code.
 
 ---
 
 ## **Key Features**
 
-### **1. AI-Powered Code Generation**
+### **1. Automated Code Generation**
 - Describe your website or component in plain English (e.g., "a landing page for a bakery with a hero section and contact form").
 - DevEase generates clean, production-ready code in your preferred framework (React, HTML/CSS, etc.).
 
@@ -94,19 +91,6 @@ DevEase is a revolutionary platform that empowers users to create websites effor
 
 ---
 
-## **Why DevEase Stands Out**
-
-| Feature                | DevEase                          | Competitors (Wix, Squarespace, etc.) |
-|------------------------|----------------------------------|--------------------------------------|
-| AI-Powered Code Gen    | ✅ Generates code in multiple frameworks | ❌ Only static HTML/CSS              |
-| Framework Support      | ✅ React, Vue, Angular, HTML/CSS | ❌ Limited to static sites           |
-| Visual Editor          | ✅ Drag-and-drop + AI customization | ✅ Drag-and-drop only                |
-| Collaboration          | ✅ Real-time team collaboration   | ❌ Limited or no collaboration       |
-| Code Ownership         | ✅ Export and own your code       | ❌ Locked into platform              |
-| Customizability        | ✅ Unlimited (AI + visual editor) | ❌ Limited to templates              |
-
----
-
 ## **Tech Stack**
 
 - **Frontend**: React.js, Tailwind CSS, CodeMirror
@@ -160,48 +144,7 @@ Visit the application at [http://localhost:3000](http://localhost:3000) in your 
 
 ---
 
-## **Contributing**
-
-We welcome contributions to DevEase! To contribute:
-1. Fork the repository.
-2. Create a new branch for your feature/bugfix.
-3. Submit a pull request with a detailed description.
-
-Please review our [Contributing Guidelines](./CONTRIBUTING.md) before submitting.
-
----
-
 ## **License**
 
 This project is licensed under the [MIT License](./LICENSE).
 
----
-
-## **Acknowledgments**
-
-- Inspired by the need to simplify web development for non-technical users.
-- Powered by cutting-edge AI technologies like OpenAI.
-
----
-
-## **Roadmap**
-
-### **Phase 1: Core Features**
-- AI-powered code generation
-- Template library
-- Drag-and-drop customization
-
-### **Phase 2: Advanced Features**
-- Multi-framework support
-- Export and deployment options
-- User accounts and project management
-
-### **Phase 3: Future Enhancements**
-- AI marketplace for custom models
-- Plugin ecosystem for additional functionality
-- Mobile app builder integration
-
-
----
-
-**DevEase** is more than just a tool it's a **paradigm shift** in how websites are created. By combining AI, visual editing, and framework flexibility, DevEase empowers users to bring their ideas to life faster and easier than ever before. 🚀
