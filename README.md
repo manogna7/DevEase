@@ -1,8 +1,6 @@
 # **DevEase**
 ---
 
-## **Overview**
-
 DevEase is a revolutionary platform that empowers users to create websites effortlessly. Whether you're a beginner, a business owner, or a developer, DevEase simplifies web development by combining **Automated code generation**, **pre-built templates**, and **drag-and-drop customization** into one seamless experience. With DevEase, you can describe your website idea, customize it visually, and export or deploy it all without writing a single line of code.
 
 ---
