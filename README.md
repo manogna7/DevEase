@@ -43,7 +43,7 @@ DevEase is a revolutionary platform that empowers users to create websites effor
 ## **What Makes DevEase Unique?**
 
 ### **1. AI + Visual Editor Combo**
-- Unlike traditional website builders (e.g., Wix, Squarespace), DevEase combines **AI-powered code generation** with a **visual editor**. This means users can start with AI-generated code and then customize it visually, giving them full control over their website.
+- Unlike traditional website builders (e.g., Wix, Squarespace), DevEase combines **AI-powered code generation** with a **visual editor**. This means users can start with AI-generated code and then customise it visually, giving them full control over their website.
 
 ### **2. Framework Flexibility**
 - Most website builders only output static HTML/CSS. DevEase allows users to generate code for modern frameworks like React, Vue, and Angular, making it ideal for developers and businesses alike.
