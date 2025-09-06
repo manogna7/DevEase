@@ -1,6 +1,6 @@
 # **DevEase**
 
-DevEase is a revolutionary platform that empowers users to create websites effortlessly. Whether you're a beginner, a business owner, or a developer, DevEase simplifies web development by combining **Automated code generation**, **pre-built templates**, and **drag-and-drop customization** into one seamless experience. With DevEase, you can describe your website idea, customize it visually, and export or deploy it all without writing a single line of code.
+DevEase is a revolutionary platform that empowers users to create websites effortlessly. Whether you're a beginner, a business owner, or a developer, DevEase simplifies web development by combining **automated code generation**, **pre-built templates**, and **drag-and-drop customization** into one seamless experience. With DevEase, you can describe your website idea, customize it visually, and export or deploy it all without writing a single line of code.
 
 ---
 
@@ -41,50 +41,21 @@ DevEase is a revolutionary platform that empowers users to create websites effor
 ---
 
 ## **What Makes DevEase Unique?**
-
-### **1. AI + Visual Editor Combo**
-- Unlike traditional website builders (e.g., Wix, Squarespace), DevEase combines **AI-powered code generation** with a **visual editor**. This means users can start with AI-generated code and then customise it visually, giving them full control over their website.
-
-### **2. Framework Flexibility**
+### **1. Framework Flexibility**
 - Most website builders only output static HTML/CSS. DevEase allows users to generate code for modern frameworks like React, Vue, and Angular, making it ideal for developers and businesses alike.
 
-### **3. No-Code + Pro-Code in One**
+### **2. No-Code + Pro-Code in One**
 - Beginners can use the visual editor and pre-built templates without touching code.
 - Developers can start with AI-generated code and refine it further, saving hours of repetitive work.
 
-### **4. Real-Time Collaboration**
+### **3. Real-Time Collaboration**
 - Unlike other tools, DevEase allows teams to collaborate in real-time on website projects, making it perfect for agencies and remote teams.
 
-### **5. AI That Understands Context**
-- DevEase’s AI doesn’t just generate generic code it understands user intent and context. For example:
-  - Input: "A responsive navbar with a logo on the left and links on the right."
-  - Output: A fully functional, mobile-friendly navbar component.
-
-### **6. Open-Ended Creativity**
+### **4. Open-Ended Creativity**
 - While other tools limit users to pre-defined templates, DevEase allows users to describe **anything** and generate it. From simple landing pages to complex dashboards, the possibilities are endless.
 
-### **7. Export and Ownership**
-- Unlike closed platforms, DevEase lets users export their code and own it completely. No vendor lock-in take your code and deploy it anywhere.
-
----
-
-## **Target Audience**
-
-1. **Beginners:**
-   - Build websites without learning to code.
-   - Use pre-built templates and the visual editor.
-
-2. **Business Owners:**
-   - Create professional websites quickly and affordably.
-   - Customize designs to match brand identity.
-
-3. **Developers:**
-   - Automate repetitive coding tasks.
-   - Generate boilerplate code and focus on complex logic.
-
-4. **Agencies and Teams:**
-   - Collaborate on client projects in real-time.
-   - Deliver websites faster with AI assistance.
+### **5. Export and Ownership**
+- DevEase lets users export their code and own it completely. No vendor lock-in take your code and deploy it anywhere.
 
 ---
 
